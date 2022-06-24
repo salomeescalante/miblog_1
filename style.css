@@ -1,0 +1,161 @@
+
+body {
+    background: linear-gradient(50deg, black, white);
+}
+
+ul  {
+    list-style: none;
+   
+}
+
+.titulo {
+    color: blue;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+
+.ingreso {
+
+    margin-left: 630px;
+    display: inline-block;
+    align-items: center;
+    color: blue;
+    font-family: sans-serif;
+    
+}
+
+.fa-solid .fa-lock-keyhole {
+
+    margin: 0 auto;
+    color: blue;
+    margin-left: 630px;
+}
+
+.linea {
+    background-color: rgb(21, 21, 213) ;
+    height: 15px;
+    width: 70%;
+}
+
+.subtitulo {
+    text-align: center;
+}
+
+.grc {
+    display: block;
+    margin: 0px auto;
+    height: 300px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+
+.descripcion {
+
+    text-align: justify;
+    font-size: 20px;
+    background-image: url(./images/paisaje2.jpg);
+    background-repeat: repeat-x;
+    border-color: blue;
+    border:1px solid blue;
+    border-radius:10px;
+    padding:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+
+@media screen and (max-width: 858px){
+
+    .descripcion {
+
+        text-align: justify;
+        font-size: 20px;
+        background-image: url(./images/paisaje2.jpg);
+        background-repeat: repeat-y;
+        border-color: blue;
+        border:1px solid blue;
+        border-radius:10px;
+        padding:10px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        -ms-border-radius:10px;
+        -o-border-radius:10px;
+    }
+}
+
+.padre {
+    display: inline-block;
+}
+
+.nombremas {
+
+    text-align: center;
+    color: blue;
+    font-family: sans-serif;
+}
+
+.cp {
+    text-align: center;
+    color: cadetblue;
+    font-family: sans-serif;
+}
+.ch {
+    text-align: center;
+    color:cadetblue;
+    font-family: sans-serif;
+}
+
+.coki1 {
+
+    display: inline-block;
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    /* display: inline-block;
+    margin-left: 50px ; */
+    
+}
+
+.coki2 {
+
+    margin-top: -80px;
+    margin-left: 150px;
+    height: 300px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+        
+       
+}
+
+.secciones {
+    font-size: x-large;
+    color: black;
+}
+
+.footer {
+
+    color: chartreuse;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+/* login */
+
+
+
+
+  
